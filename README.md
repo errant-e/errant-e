@@ -26,15 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 Programador Full Stack con experiencia en desarrollo web y titulado de cine, lo que me ha brindado una perspectiva única para abordar problemas con creatividad y metodologías ágiles.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 💼 Experiencia principalmente con Javascript, HTML, CSS y React.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 🌱 Me encuento constantemene en busca de nuevos conocimientos sobre distintas tecnologías.
 
-- 📫 Feel free to reach me out **isamitabraham@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [errant.e](https://discordapp.com/users/957722095381540874) my username!
+- 📫 contáctame: **isamitabraham@gmail.com**
 <!--Intro end-->
 
 
