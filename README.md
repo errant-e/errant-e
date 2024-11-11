@@ -46,7 +46,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=errant-e&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=errant-e)](https://git.io/streak-stats" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://streak-stats.demolab.com/?user=errant-e&theme=dark" /> 
 </td>
 
 <td width="50%" align="center">
@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap,github,mongodb,express,react,nodejs,py,vscode,figma,nextjs,mysql,pr,ae,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap,github,bash,mongodb,express,react,nodejs,py,vscode,figma,nextjs,mysql,pr,ae,ps&perline=14" />
   </a>
 </p>
 
@@ -89,7 +89,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conecta conmigo!🤝</h2></summary>
   </ul>
 </div>
 
